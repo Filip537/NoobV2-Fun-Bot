@@ -1,0 +1,1 @@
+{"name":"noobv2-parkour-bot","version":"1.0.0","private":true,"type":"commonjs","scripts":{"start":"node index.js","setup":"node setup-panel.js"},"engines":{"node":">=20"},"dependencies":{"discord.js":"^14.18.0","dotenv":"^16.4.5"}}
